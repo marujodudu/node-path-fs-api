@@ -1,0 +1,1 @@
+Conteúdo inicial do arquivo example.txt.

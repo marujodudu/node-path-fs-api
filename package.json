@@ -1,0 +1,16 @@
+{
+    "name": "node-path-fs-api",
+    "version": "1.0.0",
+    "main": "src/index.ts",
+    "scripts": {
+      "build": "tsc",
+      "start": "node dist/index.js"
+    },
+    "dependencies": {
+      "@types/node": "^20.1.0"
+    },
+    "devDependencies": {
+      "typescript": "^4.9.4"
+    }
+  }
+  
